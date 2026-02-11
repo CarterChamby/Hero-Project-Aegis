@@ -1,1 +1,5 @@
 venv/
+sniffer
+__pycache__/
+.DS_Score
+Hero-Project-Aegis/
