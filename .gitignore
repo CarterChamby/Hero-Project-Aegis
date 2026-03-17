@@ -1,5 +1,7 @@
 venv/
 sniffer
 __pycache__/
-.DS_Score
+.DS_Store
 Hero-Project-Aegis/
+*.pkl
+aegis_alerts.log
